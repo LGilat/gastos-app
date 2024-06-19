@@ -1,0 +1,1 @@
+export const SCREENS = ['Gastos', 'Categorias', 'Details', 'ShowCategories'];
